@@ -8,7 +8,7 @@ import (
 
 	madns "github.com/multiformats/go-multiaddr-dns"
 
-	vole "github.com/ipfs-shipyard/vole/lib"
+	vole "github.com/ipshipyard/vole/lib"
 	"github.com/urfave/cli/v2"
 
 	"github.com/ipfs/go-cid"

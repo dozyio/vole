@@ -1,4 +1,4 @@
-module github.com/ipfs-shipyard/vole
+module github.com/ipshipyard/vole
 
 go 1.24.6
 
